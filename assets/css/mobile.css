@@ -1,0 +1,28 @@
+@media screen and (max-device-width: 480px){
+  body {
+    background-image: none;
+    background-color: white;
+    padding: 0;
+    margin: 0;
+  }
+  #prevarr {
+    width: 30px;
+  }
+  #nextarr {
+    width: 45px;
+  }
+  #prev {
+    width: 30px;
+    left: 0;
+  }
+  #next {
+    width: 30px;
+    right: 0;
+  }
+  svg {
+    width: 30px;
+  }
+  #nav li {
+    width: 10px;
+  }
+}
